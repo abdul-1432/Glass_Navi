@@ -6,7 +6,8 @@ Glass Navigator is a simple web application that provides a user-friendly naviga
 
 You can check out the live demo of Glass Navigator [here](https://codepen.io/abdul-1432/pen/jOQeVjg).
 
-![Glass Navigator Screenshot](screenshot.png)
+![Uploading 1.png…]()
+
 
 ## Features
 
