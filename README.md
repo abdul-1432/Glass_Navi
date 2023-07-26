@@ -6,7 +6,8 @@ Glass Navigator is a simple web application that provides a user-friendly naviga
 
 You can check out the live demo of Glass Navigator [here](https://codepen.io/abdul-1432/pen/jOQeVjg).
 
-![Uploading 1.png…]()
+
+![1](https://github.com/abdul-1432/Glass_Navi/assets/124916666/030709f0-c85c-4292-bf06-655898308903)
 
 
 ## Features
@@ -31,7 +32,7 @@ cd glass-navigator
 
 ## Usage
 
-Glass Navigator is straightforward to use. You will find the navigation menu on the left side of the screen, and clicking on each item will smoothly scroll to the respective section. The glassmorphism design ensures a visually appealing experience.
+Glass Navigator is straightforward to use. You will find the navigation menu on the left side of the screen, and clicking on each item will smoothly scroll to the respective section. The glass morphism design ensures a visually appealing experience.
 
 You can also customize the app's content by editing the HTML file (`index.html`) and the styles in the CSS file (`styles.css`). The JavaScript code responsible for smooth scrolling and other interactions can be found in the `script.js` file.
 
