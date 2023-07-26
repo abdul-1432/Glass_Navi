@@ -24,7 +24,7 @@ To run Glass Navigator locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/glass-navigator.git
+https://github.com/abdul-1432/Glass_Navi
 cd glass-navigator
 ```
 
