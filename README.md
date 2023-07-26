@@ -1,10 +1,10 @@
 # Glass Navigator
 
-Glass Navigator is a simple web application that provides a user-friendly navigation experience with a sleek, modern glassmorphism-inspired design. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to customize.
+Glass Navigator is a simple web application that provides a user-friendly navigation experience with a sleek, modern glass-morphism-inspired design. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to customize.
 
 ## Demo
 
-You can check out the live demo of Glass Navigator [here](https://example.com).
+You can check out the live demo of Glass Navigator [here](https://codepen.io/abdul-1432/pen/jOQeVjg).
 
 ![Glass Navigator Screenshot](screenshot.png)
 
